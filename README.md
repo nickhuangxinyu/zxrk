@@ -5,7 +5,7 @@ coding test
 predict spread of IF
 
 # problem2
-count order type
+count order type according to transaction data
 
 fetch data:
 ```
@@ -23,3 +23,4 @@ run:
 ```
 ./main
 ```
+running time: about 140s(dataset: 2.8G)
