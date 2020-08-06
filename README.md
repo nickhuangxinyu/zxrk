@@ -3,6 +3,7 @@ coding test
 
 # problem1
 predict spread of IF
+![res](https://github.com/nickhuangxinyu/zxrk/blob/master/res.png "result")
 
 # problem2
 count order type according to transaction data
